@@ -1,4 +1,3 @@
 # OCR
 
-<h1> website link</h1><hr>
-<a>https://utxob.github.io/OCR/</a>
+<a href="https://utxob.github.io/OCR/">Visit OCR Website</a>
